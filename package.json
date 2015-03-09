@@ -1,0 +1,12 @@
+{
+  "name": "hipchat-cli",
+  "version": "0.0.1-alpha1",
+  "description": "A hipchat CLI",
+  "license": "MIT",
+  "bin": {
+    "hc-cli": "lib/cli.js"
+  },
+  "dependencies": {
+    "blessed": "0.0.49"
+  }
+}
