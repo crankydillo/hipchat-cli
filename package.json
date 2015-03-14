@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "blessed": "0.0.49",
-    "hipchatter": "^0.2.0",
     "moment": "^2.9.0",
     "node-xmpp": "^1.0.0-alpha2",
     "path-extra": "^1.0.2",
